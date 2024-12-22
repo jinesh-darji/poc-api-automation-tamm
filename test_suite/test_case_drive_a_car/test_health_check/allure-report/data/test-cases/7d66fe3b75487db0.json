@@ -1,0 +1,72 @@
+{
+  "uid" : "7d66fe3b75487db0",
+  "name" : "test_get_family_book_details",
+  "fullName" : "test_suite.test_get_family_book_details",
+  "historyId" : "710461b7bfe12dec621cd4a68c5579e3",
+  "time" : {
+    "start" : 1554124066432,
+    "stop" : 1554124066797,
+    "duration" : 365
+  },
+  "description" : "Test getFamilyBookDetails: BUAH-2675",
+  "descriptionHtml" : "<p>Test getFamilyBookDetails: BUAH-2675</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: The response code isn't equal the expected code\nassert 500 == 200\n +  where 200 = Status.SUCCESS",
+  "statusTrace" : "self = <test_suite.test_case_buy_a_home.test_health_check.test_moi_helth_check.TestMoiBuah object at 0x1116cbb00>\napi_helper = <utils.api_helper.ApiHelper object at 0x110494940>\n\n    @pytest.mark.health_check\n    def test_get_family_book_details(self, api_helper):\n        \"\"\"Test getFamilyBookDetails: BUAH-2675\"\"\"\n    \n        headers = api_helper.config_parser().build_headers(\"microservices_header\")\n        resp_code, resp_body, resp_time, resp_header = api_helper.post_response(\"GetFamilyBookDetails\",\n                                                                                \"DigitalData\",\n                                                                                \"getFamilyBookDetails\", headers=headers)\n>       assert resp_code == Status.SUCCESS, \"The response code isn't equal the expected code\"\nE       AssertionError: The response code isn't equal the expected code\nE       assert 500 == 200\nE        +  where 200 = Status.SUCCESS\n\ntest_moi_helth_check.py:40: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Buy_a_home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Dmitrys-999.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "MOI"
+  }, {
+    "name" : "thread",
+    "value" : "13444-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_suite"
+  }, {
+    "name" : "testClass",
+    "value" : "test_suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_family_book_details"
+  }, {
+    "name" : "package",
+    "value" : "test_suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "7d66fe3b75487db0.json",
+  "parameterValues" : [ ]
+}

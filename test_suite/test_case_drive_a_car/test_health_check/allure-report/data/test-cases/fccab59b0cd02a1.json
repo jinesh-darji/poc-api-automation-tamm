@@ -1,0 +1,66 @@
+{
+  "uid" : "fccab59b0cd02a1",
+  "name" : "test_get_package_details",
+  "fullName" : "test_suite.test_get_package_details",
+  "historyId" : "f2045211d7e28d478af2d14ddda320cd",
+  "time" : {
+    "start" : 1554124047157,
+    "stop" : 1554124048828,
+    "duration" : 1671
+  },
+  "description" : "Test OpGetPackageDetails: BUAH-2258",
+  "descriptionHtml" : "<p>Test OpGetPackageDetails: BUAH-2258</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Buy_a_home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Dmitrys-999.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "ETISALAT"
+  }, {
+    "name" : "thread",
+    "value" : "13444-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_suite"
+  }, {
+    "name" : "testClass",
+    "value" : "test_suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_package_details"
+  }, {
+    "name" : "package",
+    "value" : "test_suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fccab59b0cd02a1.json",
+  "parameterValues" : [ ]
+}

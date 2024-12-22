@@ -1,0 +1,72 @@
+{
+  "uid" : "29d1f7701a389c60",
+  "name" : "test_upload_document",
+  "fullName" : "test_suite.test_upload_document",
+  "historyId" : "fcf119f912d65457646efd2395414abb",
+  "time" : {
+    "start" : 1554124046204,
+    "stop" : 1554124046336,
+    "duration" : 132
+  },
+  "description" : "Test UploadDocument: BUAH-TEST",
+  "descriptionHtml" : "<p>Test UploadDocument: BUAH-TEST</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: The response code isn't equal the expected code\nassert 500 == 200\n +  where 200 = Status.SUCCESS",
+  "statusTrace" : "self = <test_suite.test_case_buy_a_home.test_health_check.test_adm_health_check.TestAdmBuah object at 0x1104b04e0>\napi_helper = <utils.api_helper.ApiHelper object at 0x110494940>\n\n    @pytest.mark.health_check\n    def test_upload_document(self, api_helper):\n        \"\"\"Test UploadDocument: BUAH-TEST\"\"\"\n    \n        headers = api_helper.config_parser().build_headers(\"microservices_header\")\n        resp_code, resp_body, resp_time, resp_header = api_helper.post_response(\"UploadDocument\",\n                                                                                \"IntegratedServices\",\n                                                                                \"uploadDocument\", headers=headers)\n>       assert resp_code == Status.SUCCESS, \"The response code isn't equal the expected code\"\nE       AssertionError: The response code isn't equal the expected code\nE       assert 500 == 200\nE        +  where 200 = Status.SUCCESS\n\ntest_adm_health_check.py:189: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Buy_a_home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Dmitrys-999.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "ADM"
+  }, {
+    "name" : "thread",
+    "value" : "13444-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_suite"
+  }, {
+    "name" : "testClass",
+    "value" : "test_suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_upload_document"
+  }, {
+    "name" : "package",
+    "value" : "test_suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "29d1f7701a389c60.json",
+  "parameterValues" : [ ]
+}

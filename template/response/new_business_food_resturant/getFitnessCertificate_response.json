@@ -1,0 +1,46 @@
+{
+    "FitnessCertificateDetailsResponse": {
+        "Contents": {
+            "IssuingAuthorityArabicName": "دائرة الصحة أبوظبي",
+            "IssuingAuthorityEnglishName": "DEPARTMENT OF HEALTH ABU DHABI",
+            "FitnessCertificateNumber": "MA1357346050117",
+            "FitnessCertificateIssueDate": "23/10/2018",
+            "FitnessCertificateExpiryDate": "21/01/2019",
+            "CertificateProcess": {
+                "CertificateProcessCode": 2,
+                "CertificateProcessArabicName": "تجديد",
+                "CertificateProcessEnglishName": "Renewal"
+            },
+            "FitnessExaminationDate": "05/01/2017",
+            "ExaminationResult": {
+                "ExaminationResultCode": 4,
+                "ExaminationResultArabicName": "FIT FOR ONE YEAR",
+                "ExaminationResultEnglishName": "FIT FOR ONE YEAR"
+            },
+            "Remarks": "REMARKS",
+            "ApplicantEmiratesID": 784195954847039,
+            "ApplicantUnifiedNumberMOI": 3383311,
+            "ApplicantArabicName": "امينه محمد سليمان ابو موسى",
+            "ApplicantEnglishName": "AMINA MOHAMED SOLIMAN ABOU MOUSA",
+            "ApplicantProfession": {
+                "ProfessionCode": 9900011,
+                "ProfessionArabicName": "ربه بيت/غير مصرح بالعمل",
+                "ProfessionEnglishName": "HOUSE WIFE"
+            },
+            "DateOfBirth": "12/07/1959",
+            "Gender": "Female",
+            "ApplicantNationality": {
+                "CountryCode": "PSE",
+                "CountryNameArb": "فلسطين",
+                "CountryNameEng": "PALESTINE"
+            },
+            "PassportNumber": "N3915942",
+            "VisaResidenceNumber": "101/2002/3/0072515",
+            "SponsorArabicName": "واكد موسى سليمان ابو موسى",
+            "TelephoneNumber": "0504911400",
+            "FaxNumber": 0,
+            "SponsorPOBox": 0,
+            "EmailAddress": 0
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "ed8ddd03cb3fc445",
+  "name" : "test_lead_status_inquiry",
+  "fullName" : "test_suite.test_lead_status_inquiry",
+  "historyId" : "344ff2ca7ea4aefb4bb827daeee8b256",
+  "time" : {
+    "start" : 1554124046585,
+    "stop" : 1554124047155,
+    "duration" : 570
+  },
+  "description" : "Test OpLeadStatusInquiry: BUAH-1868",
+  "descriptionHtml" : "<p>Test OpLeadStatusInquiry: BUAH-1868</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Buy_a_home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Dmitrys-999.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "ETISALAT"
+  }, {
+    "name" : "thread",
+    "value" : "13444-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_suite"
+  }, {
+    "name" : "testClass",
+    "value" : "test_suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_lead_status_inquiry"
+  }, {
+    "name" : "package",
+    "value" : "test_suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ed8ddd03cb3fc445.json",
+  "parameterValues" : [ ]
+}

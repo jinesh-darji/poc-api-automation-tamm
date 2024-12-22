@@ -1,0 +1,9 @@
+{
+    "GetFeesResponse": {
+        "GetFeesResult": {
+            "fee": "",
+            "cap": "",
+            "count": 0
+        }
+    }
+}

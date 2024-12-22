@@ -1,0 +1,72 @@
+{
+  "uid" : "aa58def38df0f71f",
+  "name" : "test_get_site_plan",
+  "fullName" : "test_suite.test_get_site_plan",
+  "historyId" : "696283ffbea4c5b327ea72d835128008",
+  "time" : {
+    "start" : 1554124066353,
+    "stop" : 1554124066429,
+    "duration" : 76
+  },
+  "description" : "Test getSitePlan: ",
+  "descriptionHtml" : "<p>Test getSitePlan:</p>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: The response code isn't equal the expected code\nassert 404 == 200\n +  where 200 = Status.SUCCESS",
+  "statusTrace" : "self = <test_suite.test_case_buy_a_home.test_health_check.test_moi_helth_check.TestMoiBuah object at 0x11181d668>\napi_helper = <utils.api_helper.ApiHelper object at 0x110494940>\n\n    @pytest.mark.health_check\n    def test_get_site_plan(self, api_helper):\n        \"\"\"Test getSitePlan: \"\"\"\n    \n        headers = api_helper.config_parser().build_headers(\"microservices_header\")\n        resp_code, resp_body, resp_time, resp_header = api_helper.post_response(\"GetSitePlan\",\n                                                                                \"DigitalData\",\n                                                                                \"getSitePlan\", headers=headers)\n>       assert resp_code == Status.SUCCESS, \"The response code isn't equal the expected code\"\nE       AssertionError: The response code isn't equal the expected code\nE       assert 404 == 200\nE        +  where 200 = Status.SUCCESS\n\ntest_moi_helth_check.py:30: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Buy_a_home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Dmitrys-999.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "MOI"
+  }, {
+    "name" : "thread",
+    "value" : "13444-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_suite"
+  }, {
+    "name" : "testClass",
+    "value" : "test_suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_site_plan"
+  }, {
+    "name" : "package",
+    "value" : "test_suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "aa58def38df0f71f.json",
+  "parameterValues" : [ ]
+}

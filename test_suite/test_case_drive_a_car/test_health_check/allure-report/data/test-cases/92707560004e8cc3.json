@@ -1,0 +1,66 @@
+{
+  "uid" : "92707560004e8cc3",
+  "name" : "test_get_property_profile",
+  "fullName" : "test_suite.test_get_property_profile",
+  "historyId" : "c0d767febcbe456366335e7cf37f6a9e",
+  "time" : {
+    "start" : 1554124045469,
+    "stop" : 1554124045902,
+    "duration" : 433
+  },
+  "description" : "Test getPropertyProfile: BUAH-2262",
+  "descriptionHtml" : "<p>Test getPropertyProfile: BUAH-2262</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Buy_a_home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Dmitrys-999.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "ADM"
+  }, {
+    "name" : "thread",
+    "value" : "13444-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_suite"
+  }, {
+    "name" : "testClass",
+    "value" : "test_suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_property_profile"
+  }, {
+    "name" : "package",
+    "value" : "test_suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "92707560004e8cc3.json",
+  "parameterValues" : [ ]
+}

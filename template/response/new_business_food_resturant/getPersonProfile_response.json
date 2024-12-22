@@ -1,0 +1,159 @@
+{
+    "personProfile": {
+        "unifiedNumber": 68520895,
+        "identityCard": {
+            "number": 784197832187179,
+            "issuDate": "2013-04-25T00:00:00.000+04:00",
+            "expiryDate": "2016-06-11T00:00:00.000+04:00"
+        },
+        "nationality": {
+            "id": 52,
+            "arDesc": "جمهورية أرمينيا",
+            "enDesc": "ARMENIA"
+        },
+        "personName": {
+            "fullArabicName": "انتون بابايان بابايان",
+            "fullEnglishName": "ANTON BABAYAN BABAYAN",
+            "secondNameEnglish": "PETER"
+        },
+        "gender": {
+            "id": 1,
+            "arDesc": "ذكر",
+            "enDesc": "MALE"
+        },
+        "dateOfBirth": "1978-09-09T00:00:00.000+04:00",
+        "countryOfBirth": {
+            "id": 52,
+            "arDesc": "جمهورية أرمينيا",
+            "enDesc": "ARMENIA"
+        },
+        "placeOfBirthAr": "ارمينيا",
+        "placeOfBirthEn": "ARMENIA",
+        "maritalStatus": {
+            "id": 2,
+            "arDesc": "متزوج",
+            "enDesc": "MARRIED"
+        },
+        "religion": {
+            "id": 2,
+            "arDesc": "المسيحية",
+            "enDesc": "CHRISTIANITY"
+        },
+        "passport": {
+            "number": "AK0536187",
+            "type": {
+                "id": 1,
+                "arDesc": "جواز سفر عادي",
+                "enDesc": "ORDINARY PASSPORT"
+            },
+            "issuDate": "2010-05-30T00:00:00.000+04:00",
+            "expiryDate": "2020-07-07T00:00:00.000+04:00",
+            "issueCountry": {
+                "id": 52,
+                "arDesc": "جمهورية أرمينيا",
+                "enDesc": "ARMENIA"
+            },
+            "issuePlace": "ARMENIA"
+        },
+        "sponsor": {
+            "arName": "ان بيه اى ميديا -سلطه الابداعيه",
+            "enName": "NPIMEDIA -CREATIVE AUTHORITY",
+            "department": {
+                "id": 8,
+                "arDesc": "ادارة الجنسيه والاقامة - دبى",
+                "enDesc": "NATURALIZATION AND RESIDENCY ADMINISTRATION - DUBAI"
+            },
+            "number": 5556033,
+            "addresses": {
+                "address": {
+                    "localAddress": {
+                        "emirate": {
+                            "id": 2,
+                            "arDesc": "دبي",
+                            "enDesc": "DUBAI"
+                        },
+                        "city": {
+                            "id": 10,
+                            "arDesc": " دبي",
+                            "enDesc": "DUBAI "
+                        },
+                        "area": {
+                            "id": 20100101,
+                            "arDesc": "جبل على",
+                            "enDesc": "JEBEL ALI"
+                        },
+                        "pobox": 73000,
+                        "homePhone": 3911111
+                    }
+                }
+            }
+        },
+        "personType": {
+            "id": 2,
+            "arDesc": "اقامه",
+            "enDesc": "Residence"
+        },
+        "immigrationFile": {
+            "status": {
+                "id": 2004,
+                "arDesc": "منتهية / مخالف",
+                "enDesc": ""
+            },
+            "number": "201/2008/7/101261",
+            "department": {
+                "id": 8,
+                "arDesc": "ادارة الجنسيه والاقامة - دبى",
+                "enDesc": "NATURALIZATION AND RESIDENCY ADMINISTRATION - DUBAI"
+            },
+            "year": 2008,
+            "type": {
+                "id": 7,
+                "arDesc": "عمل/هـ",
+                "enDesc": "SERVICE"
+            },
+            "sequence": 101261,
+            "issuDate": "2013-04-13T00:00:00.000+04:00",
+            "expiryDate": "2016-04-12T00:00:00.000+04:00"
+        },
+        "occupation": {
+            "id": 13917,
+            "arDesc": "مبرمج حاسب الى",
+            "enDesc": "COMPUTER PROGRAMMER"
+        },
+        "motherNameEn": "GALINA",
+        "previousNationality": {
+            "id": 52,
+            "arDesc": "جمهورية أرمينيا",
+            "enDesc": "ARMENIA"
+        },
+        "addresses": {
+            "address": {
+                "localAddress": {
+                    "emirate": {
+                        "id": 2,
+                        "arDesc": "دبي",
+                        "enDesc": "DUBAI"
+                    },
+                    "city": {
+                        "id": 10,
+                        "arDesc": " دبي",
+                        "enDesc": "DUBAI "
+                    },
+                    "area": {
+                        "id": 20100101,
+                        "arDesc": "جبل على",
+                        "enDesc": "JEBEL ALI"
+                    },
+                    "pobox": 73000,
+                    "homePhone": "043911111",
+                    "workPhone": "043911111"
+                }
+            }
+        },
+        "isBlackListed": false,
+        "isInsideCountry": true,
+        "familyCount": 0,
+        "familyMaleCount": 0,
+        "familyFemaleCount": 0
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "GetFees": {
+    "location": "string",
+    "transactionType": "string",
+    "legalForm": "string",
+    "activityId": "string",
+    "licenseId": "string",
+    "amendmentType": "string",
+    "signBoardTotalArea": "string",
+    "agencyId": "string",
+    "userName": "string",
+    "password": "string"
+  }
+}

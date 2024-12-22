@@ -1,0 +1,105 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: The response code isn't equal the expected code\nassert 404 == 200\n +  where 200 = Status.SUCCESS",
+      "children" : [ {
+        "name" : "test_get_application_response",
+        "uid" : "cff0fd01434aab76",
+        "parentUid" : "c658d73610214a7760ac2dbebe2798fe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554124043490,
+          "stop" : 1554124043693,
+          "duration" : 203
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_property_plot_unit",
+        "uid" : "512ce85ac17edb3f",
+        "parentUid" : "c658d73610214a7760ac2dbebe2798fe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554124046119,
+          "stop" : 1554124046201,
+          "duration" : 82
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_site_plan",
+        "uid" : "aa58def38df0f71f",
+        "parentUid" : "c658d73610214a7760ac2dbebe2798fe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554124066353,
+          "stop" : 1554124066429,
+          "duration" : 76
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c658d73610214a7760ac2dbebe2798fe"
+    }, {
+      "name" : "AssertionError: The response code isn't equal the expected code\nassert 500 == 200\n +  where 200 = Status.SUCCESS",
+      "children" : [ {
+        "name" : "test_verification_process",
+        "uid" : "51e20b5c200e256f",
+        "parentUid" : "1088a7f374fdcaf39760d8e7fb85073a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554124044564,
+          "stop" : 1554124045464,
+          "duration" : 900
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_upload_document",
+        "uid" : "29d1f7701a389c60",
+        "parentUid" : "1088a7f374fdcaf39760d8e7fb85073a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554124046204,
+          "stop" : 1554124046336,
+          "duration" : 132
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_get_family_book_details",
+        "uid" : "7d66fe3b75487db0",
+        "parentUid" : "1088a7f374fdcaf39760d8e7fb85073a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554124066432,
+          "stop" : 1554124066797,
+          "duration" : 365
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1088a7f374fdcaf39760d8e7fb85073a"
+    }, {
+      "name" : "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "children" : [ {
+        "name" : "test_get_person_profile",
+        "uid" : "81447e345e5c3cf1",
+        "parentUid" : "914dc39651c319dd92c8b6abf199439e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1554124049527,
+          "stop" : 1554124066296,
+          "duration" : 16769
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "914dc39651c319dd92c8b6abf199439e"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

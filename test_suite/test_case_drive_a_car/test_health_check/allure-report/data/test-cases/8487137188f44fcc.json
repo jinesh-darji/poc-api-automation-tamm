@@ -1,0 +1,66 @@
+{
+  "uid" : "8487137188f44fcc",
+  "name" : "test_get_lookup_items",
+  "fullName" : "test_suite.test_get_lookup_items",
+  "historyId" : "653a33955ee1ecb161c57b1d9fd117f7",
+  "time" : {
+    "start" : 1554124044380,
+    "stop" : 1554124044562,
+    "duration" : 182
+  },
+  "description" : "Test GetLookupItems: BUAH-2261",
+  "descriptionHtml" : "<p>Test GetLookupItems: BUAH-2261</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Buy_a_home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Dmitrys-999.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "ADM"
+  }, {
+    "name" : "thread",
+    "value" : "13444-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_suite"
+  }, {
+    "name" : "testClass",
+    "value" : "test_suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_get_lookup_items"
+  }, {
+    "name" : "package",
+    "value" : "test_suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8487137188f44fcc.json",
+  "parameterValues" : [ ]
+}

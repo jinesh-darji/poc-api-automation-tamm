@@ -1,0 +1,66 @@
+{
+  "uid" : "9c661005b78126f9",
+  "name" : "test_to_chk_get_owner_id_by_owner_idn",
+  "fullName" : "test_suite.test_to_chk_get_owner_id_by_owner_idn",
+  "historyId" : "5e0ada757c3f0cf66b3c2d19b5e40459",
+  "time" : {
+    "start" : 1554124043922,
+    "stop" : 1554124044141,
+    "duration" : 219
+  },
+  "description" : "Test getOwnerIdByOwnerIDN: BUAH-1630",
+  "descriptionHtml" : "<p>Test getOwnerIdByOwnerIDN: BUAH-1630</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Buy_a_home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Dmitrys-999.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "ADM"
+  }, {
+    "name" : "thread",
+    "value" : "13444-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_suite"
+  }, {
+    "name" : "testClass",
+    "value" : "test_suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_to_chk_get_owner_id_by_owner_idn"
+  }, {
+    "name" : "package",
+    "value" : "test_suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9c661005b78126f9.json",
+  "parameterValues" : [ ]
+}

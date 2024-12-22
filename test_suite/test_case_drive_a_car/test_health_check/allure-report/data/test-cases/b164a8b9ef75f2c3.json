@@ -1,0 +1,66 @@
+{
+  "uid" : "b164a8b9ef75f2c3",
+  "name" : "test_getOnlineUserVerificationStatus",
+  "fullName" : "test_suite.test_getOnlineUserVerificationStatus",
+  "historyId" : "290e872258dc752ea6af6f37f381b15d",
+  "time" : {
+    "start" : 1554124043700,
+    "stop" : 1554124043921,
+    "duration" : 221
+  },
+  "description" : "Test getOnlineUserVerificationStatus: BUAH-1629",
+  "descriptionHtml" : "<p>Test getOnlineUserVerificationStatus: BUAH-1629</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Buy_a_home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Dmitrys-999.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "ADM"
+  }, {
+    "name" : "thread",
+    "value" : "13444-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_suite"
+  }, {
+    "name" : "testClass",
+    "value" : "test_suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_getOnlineUserVerificationStatus"
+  }, {
+    "name" : "package",
+    "value" : "test_suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b164a8b9ef75f2c3.json",
+  "parameterValues" : [ ]
+}

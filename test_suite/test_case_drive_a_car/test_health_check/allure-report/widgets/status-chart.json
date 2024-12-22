@@ -1,0 +1,171 @@
+[ {
+  "uid" : "9c661005b78126f9",
+  "name" : "test_to_chk_get_owner_id_by_owner_idn",
+  "time" : {
+    "start" : 1554124043922,
+    "stop" : 1554124044141,
+    "duration" : 219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b164a8b9ef75f2c3",
+  "name" : "test_getOnlineUserVerificationStatus",
+  "time" : {
+    "start" : 1554124043700,
+    "stop" : 1554124043921,
+    "duration" : 221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7d66fe3b75487db0",
+  "name" : "test_get_family_book_details",
+  "time" : {
+    "start" : 1554124066432,
+    "stop" : 1554124066797,
+    "duration" : 365
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "29d1f7701a389c60",
+  "name" : "test_upload_document",
+  "time" : {
+    "start" : 1554124046204,
+    "stop" : 1554124046336,
+    "duration" : 132
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "81447e345e5c3cf1",
+  "name" : "test_get_person_profile",
+  "time" : {
+    "start" : 1554124049527,
+    "stop" : 1554124066296,
+    "duration" : 16769
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3d889c3dab285d",
+  "name" : "test_ownership_deed",
+  "time" : {
+    "start" : 1554124045906,
+    "stop" : 1554124046118,
+    "duration" : 212
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8487137188f44fcc",
+  "name" : "test_get_lookup_items",
+  "time" : {
+    "start" : 1554124044380,
+    "stop" : 1554124044562,
+    "duration" : 182
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed8ddd03cb3fc445",
+  "name" : "test_lead_status_inquiry",
+  "time" : {
+    "start" : 1554124046585,
+    "stop" : 1554124047155,
+    "duration" : 570
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51e20b5c200e256f",
+  "name" : "test_verification_process",
+  "time" : {
+    "start" : 1554124044564,
+    "stop" : 1554124045464,
+    "duration" : 900
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "92707560004e8cc3",
+  "name" : "test_get_property_profile",
+  "time" : {
+    "start" : 1554124045469,
+    "stop" : 1554124045902,
+    "duration" : 433
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b2642c697b981b6",
+  "name" : "test_creat_lead_fab",
+  "time" : {
+    "start" : 1554124048830,
+    "stop" : 1554124049526,
+    "duration" : 696
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa58def38df0f71f",
+  "name" : "test_get_site_plan",
+  "time" : {
+    "start" : 1554124066353,
+    "stop" : 1554124066429,
+    "duration" : 76
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cf301c58a91fb29",
+  "name" : "test_get_buy_and_sell_details",
+  "time" : {
+    "start" : 1554124044144,
+    "stop" : 1554124044378,
+    "duration" : 234
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fccab59b0cd02a1",
+  "name" : "test_get_package_details",
+  "time" : {
+    "start" : 1554124047157,
+    "stop" : 1554124048828,
+    "duration" : 1671
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "512ce85ac17edb3f",
+  "name" : "test_property_plot_unit",
+  "time" : {
+    "start" : 1554124046119,
+    "stop" : 1554124046201,
+    "duration" : 82
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "68e97a3ddb670e0e",
+  "name" : "test_create_lead",
+  "time" : {
+    "start" : 1554124046340,
+    "stop" : 1554124046583,
+    "duration" : 243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cff0fd01434aab76",
+  "name" : "test_get_application_response",
+  "time" : {
+    "start" : 1554124043490,
+    "stop" : 1554124043693,
+    "duration" : 203
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

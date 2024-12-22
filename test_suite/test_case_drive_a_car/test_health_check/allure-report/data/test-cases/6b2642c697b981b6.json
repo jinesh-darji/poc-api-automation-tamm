@@ -1,0 +1,66 @@
+{
+  "uid" : "6b2642c697b981b6",
+  "name" : "test_creat_lead_fab",
+  "fullName" : "test_suite.test_creat_lead_fab",
+  "historyId" : "f3c9582aa3559309f894817eadc892e3",
+  "time" : {
+    "start" : 1554124048830,
+    "stop" : 1554124049526,
+    "duration" : 696
+  },
+  "description" : "Test CreateLeadFAB: BUAH-3678",
+  "descriptionHtml" : "<p>Test CreateLeadFAB: BUAH-3678</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Buy_a_home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Dmitrys-999.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "FAB"
+  }, {
+    "name" : "thread",
+    "value" : "13444-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_suite"
+  }, {
+    "name" : "testClass",
+    "value" : "test_suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_creat_lead_fab"
+  }, {
+    "name" : "package",
+    "value" : "test_suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6b2642c697b981b6.json",
+  "parameterValues" : [ ]
+}

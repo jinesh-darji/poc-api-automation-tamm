@@ -1,0 +1,66 @@
+{
+  "uid" : "f3d889c3dab285d",
+  "name" : "test_ownership_deed",
+  "fullName" : "test_suite.test_ownership_deed",
+  "historyId" : "a173095ad5bbb6fb4bcb768fb19a811",
+  "time" : {
+    "start" : 1554124045906,
+    "stop" : 1554124046118,
+    "duration" : 212
+  },
+  "description" : "Test GetUnitOwnershipDeed: BUAH-2259",
+  "descriptionHtml" : "<p>Test GetUnitOwnershipDeed: BUAH-2259</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Buy_a_home"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "Dmitrys-999.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "ADM"
+  }, {
+    "name" : "thread",
+    "value" : "13444-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_suite"
+  }, {
+    "name" : "testClass",
+    "value" : "test_suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_ownership_deed"
+  }, {
+    "name" : "package",
+    "value" : "test_suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f3d889c3dab285d.json",
+  "parameterValues" : [ ]
+}
